@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"theme": "preap.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_use_clipboard": true
+}

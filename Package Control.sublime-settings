@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Git",
+		"GitGutter",
+		"MarkdownEditing",
+		"Package Control",
+		"Preap",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Spacegray",
+		"Themr"
+	]
+}
