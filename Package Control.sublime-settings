@@ -6,11 +6,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"Git",
 		"GitGutter",
 		"MarkdownEditing",
 		"Package Control",
 		"Preap",
+		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",

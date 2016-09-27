@@ -1,10 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"theme": "Boxy Ocean.sublime-theme",
 	"ignored_packages":
 	[
 	],
+  "font_face": "Inconsolata-dz for Powerline",
 	"tab_size": 2,
-	"theme": "preap.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
 	"vintage_use_clipboard": true
