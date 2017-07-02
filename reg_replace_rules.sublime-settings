@@ -1,0 +1,37 @@
+{
+    "format": "3.0",
+    "replacements": {
+        "remove_\\x": {
+            "find": "\\\\x",
+            "replace": "",
+        },
+        "remove_quotes": {
+            "find": "(\"|')",
+            "replace": "",
+        },
+        "remove_newlines": {
+            "find": "\n",
+            "replace": "",
+        },
+        "shellcode_to_hex": {
+            "find": "([0-9a-f]{2})",
+            "replace": "\\x\\1",
+        },
+        "align_shellcode": {
+            "find": "([0-9a-f]{20})",
+            "replace": "\\1\n",
+        },
+        "wrap_in_var": {
+            "find": "([0-9a-f]+)",
+            "replace": "var += '\\1'",
+        },
+        "remove_var": {
+            "find": "^([a-z0-9_]+ \\+= )",
+            "replace": "",
+        },
+        "remove_spaces": {
+            "find": " ",
+            "replace": "",
+        },
+    }
+}

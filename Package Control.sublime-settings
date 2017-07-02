@@ -5,18 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
 		"Git",
 		"GitGutter",
+		"HTMLBeautify",
 		"MarkdownEditing",
 		"Package Control",
 		"Pretty JSON",
+		"RegReplace",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pylint",
+		"SummitLinter",
 		"Theme - Spacegray",
 		"Themr"
 	]

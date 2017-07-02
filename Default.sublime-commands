@@ -1,0 +1,52 @@
+[
+  {
+    "caption": "Hex to Shellcode",
+    "command": "reg_replace",
+    "args": {
+      "replacements": [
+        "remove_\\x",
+        "remove_quotes",
+        "remove_newlines",
+        "align_shellcode"
+      ]
+    }
+  },
+  {
+    "caption": "Shellcode to Hex",
+    "command": "reg_replace",
+    "args": {
+      "replacements": [
+        "remove_newlines",
+        "align_shellcode",
+        "shellcode_to_hex",
+      ]
+    }
+  },
+  {
+    "caption": "Shellcode to Python",
+    "command": "reg_replace",
+    
+    "args": {
+      "replacements": [
+        "remove_spaces",
+        "remove_newlines",
+        "align_shellcode",
+        "wrap_in_var",
+        "shellcode_to_hex",
+      ]
+    }
+  },
+  {
+    "caption": "Python to Shellcode",
+    "command": "reg_replace",
+    "args": {
+      "replacements": [
+        "remove_var",
+        "remove_\\x",
+        "remove_quotes",
+        "remove_newlines",
+        "align_shellcode",
+      ]
+    }
+  },
+]
