@@ -1,3 +1,7 @@
 Package Control.cache/
 Package Control.last-run
 SublimeLinter/
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+SublimeLinter.sublime-settings
+oscrypto-ca-bundle.crt
